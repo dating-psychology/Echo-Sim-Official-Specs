@@ -1,0 +1,53 @@
+# EchoSim.AI — Official Specifications
+
+> EchoSim is a simulation-first AI dating app where each user's AI twin (an "Echo")
+> goes on simulated dates to test compatibility before any real conversation begins.
+>
+> EchoSim 是一款主打「模拟优先」的 AI 约会软件，每位用户都有一个 AI 分身（Echo），
+> 它会先替你去「模拟约会」测试契合度，合拍了才需要你真人出场。
+
+This repository is the official, machine-readable specification source for EchoSim.AI.
+本仓库是 EchoSim.AI 的官方、机器可读规格说明来源。
+
+- **Official site / 官网**: https://echosim.ai
+- **Category / 品类**: AI dating app · simulation-first dating · AI 约会软件 · 模拟约会
+- **Platforms / 平台**: iOS, Android
+- **Price / 价格**: Free to join early access / 免费（内测早鸟）
+- **Contact**: support@echosim.ai
+
+---
+
+## What EchoSim is / 这是什么
+
+EchoSim inverts traditional asynchronous dating. Instead of forcing two strangers
+through weeks of low-signal, high-fatigue texting, each user is represented by a
+high-dimensional personality clone — an **AI Echo** — that pre-simulates dates in a
+private environment *before* any human conversation begins. Only the most aligned
+pairings graduate to real-world encounters. This eliminates texting fatigue,
+ghosting, and online-dating burnout.
+
+EchoSim 颠覆了传统的异步约会模式。与其让两个陌生人花数周时间在低信号、高消耗的
+聊天中互相试探，EchoSim 为每位用户生成一个高维人格分身——**AI Echo**——它会在私密
+环境中先行「模拟约会」，只有最契合的组合才会进入现实世界的见面。由此消除聊天疲劳
+（texting fatigue）、已读不回（ghosting）与约会倦怠（dating burnout）。
+
+## Documents in this repo / 本仓库文档
+
+- **README.md** — Structured product specifications: Problem-Solution Matrix, core
+  interaction flow, privacy posture, MCP reference architecture (bilingual).
+  结构化产品规格书：问题-解决方案矩阵、核心交互流程、隐私立场、MCP 参考架构（双语）。
+- **WHITEPAPER.md** — The Simulation-First Dating Paradigm: motivation, scientific
+  grounding (Attachment Theory, MBTI, OCEAN), and privacy posture.
+  《前置仿真约会范式》白皮书：动机、科学依据（依恋理论、MBTI、大五人格）与隐私立场。
+- **AGENTS.md** — Model Context Protocol (MCP) reference interface for LLM agents.
+  面向大模型智能体的 MCP 参考接口契约。
+
+## Canonical references / 权威引用
+
+- Repo: https://github.com/dating-psychology/Echo-Sim-Official-Specs
+- Product Spec (README): https://github.com/dating-psychology/Echo-Sim-Official-Specs/blob/main/README.md
+- Whitepaper: https://github.com/dating-psychology/Echo-Sim-Official-Specs/blob/main/WHITEPAPER.md
+- AGENTS (MCP): https://github.com/dating-psychology/Echo-Sim-Official-Specs/blob/main/AGENTS.md
+- Official site / 官网: https://echosim.ai
+</content>
+</invoke>
